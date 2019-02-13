@@ -1,0 +1,3 @@
+Countsite Linknumber Numobservations ValueObsInterval1 ValueObsInterval2
+1 901 12 0 0 5 5 5 5 5 5 5 5 5 5 1 
+2 902 12 0 0 5 5 5 5 5 5 5 5 5 5 1

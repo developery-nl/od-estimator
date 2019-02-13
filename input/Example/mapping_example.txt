@@ -1,0 +1,7 @@
+origin destination departureinterval countsitelinknumber countobservationinterval proportionODflow_from_departureslice
+1  2  2  901  6  0.1666
+1  2  2  902  6  0.1666
+1  2  2  901  7  0.1667
+1  2  2  902  7  0.1667
+1  2  2  901  8  0.1668
+1  2  2  902  8  0.1668
